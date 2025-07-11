@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "name": "Aryan Singh",
+      "username": "devilorak",
+      "email": "divyanshsingh",
+      "phone": "9564646778",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "name": "debobo",
+      "username": "devooracle",
+      "email": "devilt55r@gmail.com",
+      "phone": "9078884448"
+    },
+    {
+      "id": "4cb0",
+      "name": "henry",
+      "username": "james123devil",
+      "email": "james234@gmail.com",
+      "phone": "7789749722"
+    }
+  ]
+}
